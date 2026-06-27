@@ -1,5 +1,7 @@
 # Automated Financial Reporting
 
+![FS_Cover_Image](screenshots/fs-cover-image.png)
+
 > ## Portfolio Case Study
 >
 > This repository documents a finance automation project developed in a previous professional role.
