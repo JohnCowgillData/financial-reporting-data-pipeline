@@ -119,7 +119,7 @@ Consolidated Financial Statements
 
 ## 1. Recurring Financial Reporting Challenges
 
-![Recurring Financial Reporting Challenges](screenshots/f1.png)
+![Recurring Financial Reporting Challenges](screenshots/fs1.png)
 
 The original reporting process required recurring workbook updates, synchronized reporting across multiple entities, and manual maintenance of workbook dependencies.
 
@@ -127,7 +127,7 @@ The original reporting process required recurring workbook updates, synchronized
 
 ## 2. Structured Reporting Data Pipeline
 
-![Structured Reporting Data Pipeline](screenshots/f2.png)
+![Structured Reporting Data Pipeline](screenshots/fs2.png)
 
 SQL and Python generate standardized reporting tables that serve as the foundation for recurring financial statement generation.
 
@@ -135,7 +135,7 @@ SQL and Python generate standardized reporting tables that serve as the foundati
 
 ## 3. Automated Reporting Workflow
 
-![Automated Reporting Workflow](screenshots/f3.png)
+![Automated Reporting Workflow](screenshots/fs3.png)
 
 The reporting workflow replaces workbook dependency chains with structured reporting outputs that feed recurring financial statement generation.
 
@@ -143,7 +143,7 @@ The reporting workflow replaces workbook dependency chains with structured repor
 
 ## 4. Entity-Level Financial Statement Output
 
-![Entity-Level Financial Statement Output](screenshots/f4.png)
+![Entity-Level Financial Statement Output](screenshots/fs4.png)
 
 Automatically generated financial statements for individual business entities using standardized reporting data.
 
@@ -151,7 +151,7 @@ Automatically generated financial statements for individual business entities us
 
 ## 5. Consolidated Financial Statement Output
 
-![Consolidated Financial Statement Output](screenshots/f5.png)
+![Consolidated Financial Statement Output](screenshots/fs5.png)
 
 Automatically generated consolidated financial statements combining entity-level reporting into a unified financial view.
 
@@ -159,7 +159,7 @@ Automatically generated consolidated financial statements combining entity-level
 
 ## 6. Final Reporting Results
 
-![Final Reporting Results](screenshots/f6.png)
+![Final Reporting Results](screenshots/fs6.png)
 
 Completed recurring reporting workflow demonstrating standardized, repeatable financial statement generation across multiple business entities.
 
